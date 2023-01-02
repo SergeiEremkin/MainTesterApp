@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e2f04e-bdc5-4914-ab0d-e26fdd891f2c" name="Changes" comment="Начал делать консольное приложение, заполняю readme.md">
+    <list default="true" id="61e2f04e-bdc5-4914-ab0d-e26fdd891f2c" name="Changes" comment="Сделал чтение и запись вопросов из файла.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Answer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Printable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672605965009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделал чтение и запись вопросов из файла.">
+      <created>1672621181501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672621181501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сделал чтение и запись вопросов из файла.">
+      <created>1672621198798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672621198798</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начал делать консольное приложение, заполняю readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал делать консольное приложение, заполняю readme.md" />
+    <MESSAGE value="Сделал чтение и запись вопросов из файла." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал чтение и запись вопросов из файла." />
   </component>
 </project>
