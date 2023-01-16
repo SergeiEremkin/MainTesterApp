@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e2f04e-bdc5-4914-ab0d-e26fdd891f2c" name="Changes" comment="Доработал файл readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOperable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="61e2f04e-bdc5-4914-ab0d-e26fdd891f2c" name="Changes" comment="1.Буду писать сам диплом в readme.md.&#10;2.Слелал консольный интерефейс. Реализовал функционал добавления теста через консоль" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672877680449</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.Буду писать сам диплом в readme.md.&#10;2.Слелал консольный интерефейс. Реализовал функционал добавления теста через консоль">
+      <created>1673906737281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673906737281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.Буду писать сам диплом в readme.md.&#10;2.Слелал консольный интерефейс. Реализовал функционал добавления теста через консоль">
+      <created>1673906876499</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673906876499</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +125,7 @@
     <MESSAGE value="Начал делать консольное приложение, заполняю readme.md" />
     <MESSAGE value="Сделал чтение и запись вопросов из файла." />
     <MESSAGE value="Доработал файл readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доработал файл readme.md" />
+    <MESSAGE value="1.Буду писать сам диплом в readme.md.&#10;2.Слелал консольный интерефейс. Реализовал функционал добавления теста через консоль" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Буду писать сам диплом в readme.md.&#10;2.Слелал консольный интерефейс. Реализовал функционал добавления теста через консоль" />
   </component>
 </project>
